@@ -1,0 +1,51 @@
+.f{
+    background-color: rgb(103, 111, 189);
+    width: 400px;
+    margin: auto;
+}
+
+.form{
+    
+    width: 250px;
+    height: 20px;
+    padding: 8px;
+    margin-left: 62px;
+}
+
+.submit{
+    margin-left: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 25px;
+    border-radius: 30px;
+}
+
+.submit:hover{
+background-color: rgb(71, 71, 252);
+color: white;
+}
+
+.item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.item .details {
+    display: none;
+}
+.read-more {
+    background-color: #4CAF50;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+
+
+
+
